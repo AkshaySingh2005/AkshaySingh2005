@@ -3,7 +3,7 @@
   <tr>
     <td>
       <h1>💫 About Me</h1>
-      Hello, I'm a passionate software developer focused on creating amazing full-stack projects. I thrive on curiosity and enjoy learning new technologies to solve real-world problems.<br><br>
+      Hello, I'm a passionate software developer focused on creating amazing projects. I thrive on curiosity and enjoy learning new technologies to solve real-world problems.<br><br>
       I am always exploring new tools and frameworks, staying updated with the latest in development, and improving my skills every day. My goal is to work with other talented developers to build innovative solutions that make a meaningful impact.<br><br>
       Feel free to check out my projects, and let's connect if you want to collaborate or share ideas!<br><br>
       🚀 Let's build something awesome together!
